@@ -7,6 +7,41 @@
 
 Take a cookie and leave a star🌟
 
+## Table of Contents
+* [PRG1](#PRG1)
+* [SYL](#SYL)
+* [ARO](#ARO)
+* [ISD](#ISD)
+* [PRG2](#PRG2)
+* [ASD](#ASD)
+* [PIN](#PIN)
+* [DTS](#DTS)
+* [PCO](#PCO)
+* [SYE](#SYE)
+* [PST](#PST)
+* [DAI](#DAI)
+* [BDR](#BDR)
+* [POO](#POO)
+* [PDL](#PDL)
+* [SRX](#SRX)
+* [CLD](#CLD)
+* [GRS](#GRS)
+* [POA](#POA)
+* [MCR](#MCR)
+* [WEB](#WEB)
+* [ARN](#ARN)
+* [GRE](#GRE)
+* [EAL](#EAL)
+* [PDG](#PDG)
+* [SLH](#SLH)
+* [DAA](#DAA)
+* [PLP](#PLP)
+* [AMT](#AMT)
+* [SDR](#SDR)
+* [SIO](#SIO)
+* [MAC](#MAC)
+* [ADS](#ADS)
+
 
 ## Semester 1
 
