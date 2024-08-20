@@ -13,7 +13,7 @@ Take a cookie and leave a star🌟
   * [SYL](#SYL)
   * [ARO](#ARO)
   * [ISD](#ISD)
-  * [Semester 2](#semester-2)
+* [Semester 2](#semester-2)
   * [PRG2](#PRG2)
   * [ASD](#ASD)
   * [PIN](#PIN)
